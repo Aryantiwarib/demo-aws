@@ -1,0 +1,13 @@
+Flask
+flask-cors
+python-dotenv
+mongoengine
+pymongo
+pandas
+werkzeug
+pyjwt
+bcrypt
+email-validator
+# smtplib  # Standard library; not required in requirements.txt
+threading  # Standard library; not required in requirements.txt
+logging  # Standard library; not required in requirements.txt
